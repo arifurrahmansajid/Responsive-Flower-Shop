@@ -1,7 +1,8 @@
 
 ## Project goal
 
-* To build a Responsive landing page with HTML and CSS for a flower shop for Assignment: 01.
+* To build a Responsive landing page with HTML and CSS for a flower shop
+  
 
 ## Project Description
 
